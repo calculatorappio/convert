@@ -1,10 +1,157 @@
 {
-    "1": {"from": "cm", "to": "feet", "factor": 0.0328084},
-    "2": {"from": "lb", "to": "kg", "factor": 0.453592},
-    "3": {"from": "kg", "to": "lb", "factor": 2.20462},
-    "4": {"from": "g", "to": "kg", "factor": 0.001},
-    "5": {"from": "kg", "to": "g", "factor": 1000},
-    "6": {"from": "feet", "to": "inch", "factor": 12},
-    "7": {"from": "feet", "to": "mile", "factor": 0.000189394},
-    "8": {"from": "feet", "to": "km", "factor": 0.0003048}
+  "1": {
+    "from": "cm",
+    "to": "feet",
+    "factor": 0.0328084
+  },
+  "2": {
+    "from": "cm",
+    "to": "inch",
+    "factor": 0.393701
+  },
+  "3": {
+    "from": "cm",
+    "to": "m",
+    "factor": 0.01
+  },
+  "4": {
+    "from": "cm",
+    "to": "km",
+    "factor": 0.00001
+  },
+  "5": {
+    "from": "inch",
+    "to": "cm",
+    "factor": 2.54
+  },
+  "6": {
+    "from": "inch",
+    "to": "feet",
+    "factor": 0.0833333
+  },
+  "7": {
+    "from": "inch",
+    "to": "m",
+    "factor": 0.0254
+  },
+  "8": {
+    "from": "inch",
+    "to": "km",
+    "factor": 0.0000254
+  },
+  "9": {
+    "from": "m",
+    "to": "cm",
+    "factor": 100
+  },
+  "10": {
+    "from": "m",
+    "to": "inch",
+    "factor": 39.3701
+  },
+  "11": {
+    "from": "m",
+    "to": "feet",
+    "factor": 3.28084
+  },
+  "12": {
+    "from": "m",
+    "to": "km",
+    "factor": 0.001
+  },
+  "13": {
+    "from": "km",
+    "to": "cm",
+    "factor": 100000
+  },
+  "14": {
+    "from": "km",
+    "to": "inch",
+    "factor": 39370.1
+  },
+  "15": {
+    "from": "km",
+    "to": "feet",
+    "factor": 3280.84
+  },
+  "16": {
+    "from": "km",
+    "to": "m",
+    "factor": 1000
+  },
+  "17": {
+    "from": "lb",
+    "to": "kg",
+    "factor": 0.453592
+  },
+  "18": {
+    "from": "lb",
+    "to": "g",
+    "factor": 453.592
+  },
+  "19": {
+    "from": "kg",
+    "to": "lb",
+    "factor": 2.20462
+  },
+  "20": {
+    "from": "kg",
+    "to": "g",
+    "factor": 1000
+  },
+  "21": {
+    "from": "g",
+    "to": "lb",
+    "factor": 0.00220462
+  },
+  "22": {
+    "from": "g",
+    "to": "kg",
+    "factor": 0.001
+  },
+  "23": {
+    "from": "feet",
+    "to": "inch",
+    "factor": 12
+  },
+  "24": {
+    "from": "feet",
+    "to": "mile",
+    "factor": 0.000189394
+  },
+  "25": {
+    "from": "feet",
+    "to": "km",
+    "factor": 0.0003048
+  },
+  "26": {
+    "from": "mile",
+    "to": "feet",
+    "factor": 5280
+  },
+  "27": {
+    "from": "mile",
+    "to": "km",
+    "factor": 1.60934
+  },
+  "28": {
+    "from": "mile",
+    "to": "m",
+    "factor": 1609.34
+  },
+  "29": {
+    "from": "km",
+    "to": "mile",
+    "factor": 0.621371
+  },
+  "30": {
+    "from": "km",
+    "to": "feet",
+    "factor": 3280.84
+  },
+  "31": {
+    "from": "km",
+    "to": "m",
+    "factor": 1000
+  }
 }
