@@ -1,3 +1,10 @@
- Admin area URL: https://meltshake.s3-tastewp.com/wp-admin 
- Username: admin 
- Password: QLOD0_1S1LA 
+{
+    "1": {"from": "cm", "to": "feet", "factor": 0.0328084},
+    "2": {"from": "lb", "to": "kg", "factor": 0.453592},
+    "3": {"from": "kg", "to": "lb", "factor": 2.20462},
+    "4": {"from": "g", "to": "kg", "factor": 0.001},
+    "5": {"from": "kg", "to": "g", "factor": 1000},
+    "6": {"from": "feet", "to": "inch", "factor": 12},
+    "7": {"from": "feet", "to": "mile", "factor": 0.000189394},
+    "8": {"from": "feet", "to": "km", "factor": 0.0003048}
+}
